@@ -10,7 +10,9 @@ public class git1 {
         int batuketa = a+b;
         System.out.println(batuketa);
         int kenketa = a-b;
-
+        System.out.println(kenketa);
+        int biderketa = a*b;
+        System.out.println(biderketa);
 
         
     }
