@@ -13,7 +13,8 @@ public class git1 {
         System.out.println(kenketa);
         int biderketa = a*b;
         System.out.println(biderketa);
-
+        int zatiketa = a/b;
+        System.out.println(zatiketa);
         
     }
 }
