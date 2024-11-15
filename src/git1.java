@@ -16,5 +16,8 @@ public class git1 {
         int zatiketa = a/b;
         System.out.println(zatiketa);
         //komentarioak
+        double c = sc.nextDouble();
+        double erroKarratua = Math.sqrt(c);
+        System.out.println(erroKarratua);
     }
 }
