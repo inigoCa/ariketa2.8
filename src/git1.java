@@ -19,7 +19,7 @@ public class git1 {
         double c = sc.nextDouble();
         double erroKarratua = Math.sqrt(c);
         System.out.println(erroKarratua);
-
+        //push kalkulagailua
         System.out.println("Ingresa un número para calcular su factorial:");
         int num = sc.nextInt();
 
